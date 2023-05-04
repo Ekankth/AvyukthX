@@ -1,5 +1,5 @@
 {
-    "name": "VickMachineBot",    
+    "name": "AvyukthXBot",    
     "env": {
         "BOT_TOKEN": {
             "description": "telegram bot token here",
